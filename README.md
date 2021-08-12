@@ -36,4 +36,4 @@ Todos os usuários podem excluir pacotes turísticos;
 23. Página de informação de sucesso 6. Está página aparece logo depois que a edição ocorre. Além da mensagem, são exibidas ações que o usuário pode realizar;
 24. Página de listagem de pacotes turísticos. Nela são mostradas as informações de todos os pacotes salvos no banco de dados. Todos os usuários 
 podem acessar a lista de pacotes;
-25. Página de logout. Ela aparece depois que o usuário seleciona a ação de sair do sistema. Ésta página a ação de entrar novamente no sistema.
+25. Página de logout. Ela aparece depois que o usuário seleciona a ação de sair do sistema. Está página contêm a ação de entrar novamente no sistema.
