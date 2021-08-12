@@ -1,0 +1,182 @@
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.exe
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.deps.json
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.runtimeconfig.json
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.runtimeconfig.dev.json
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.dll
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.pdb
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.Views.dll
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.Views.pdb
+C:\Users\André\Desktop\Atividade02\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csprojAssemblyReference.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.AssemblyInfoInputs.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.AssemblyInfo.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorAssemblyInfo.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorAssemblyInfo.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.TagHelpers.input.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.TagHelpers.output.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorCoreGenerate.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorTargetAssemblyInfo.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorTargetAssemblyInfo.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.Views.pdb
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csproj.CopyComplete
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade02.StaticWebAssets.Manifest.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade02.StaticWebAssets.xml
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.dll
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.pdb
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.genruntimeconfig.cache
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\CadastroPacote.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\EditarPacote.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\ExcluirPacote.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\ListarPacote.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteCadastrado.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteEditado.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteExcluido.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado2.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado3.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado4.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListarUsuario.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logado.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioCadastrado.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioEditado.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioExcluido.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\CarrinhoCompras.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\André\Desktop\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Institucional.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.exe
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.deps.json
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.runtimeconfig.json
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.runtimeconfig.dev.json
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.dll
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.pdb
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.Views.dll
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.Views.pdb
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csprojAssemblyReference.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.AssemblyInfoInputs.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.AssemblyInfo.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csproj.CoreCompileInputs.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorAssemblyInfo.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorAssemblyInfo.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.TagHelpers.input.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.TagHelpers.output.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorCoreGenerate.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\CarrinhoCompras.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Institucional.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\CadastroPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\EditarPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\ExcluirPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\ListarPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteCadastrado.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteEditado.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteExcluido.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado2.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado3.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado4.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListarUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logado.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioCadastrado.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioEditado.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioExcluido.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorTargetAssemblyInfo.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorTargetAssemblyInfo.cs
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.Views.pdb
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csproj.CopyComplete
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade02.StaticWebAssets.Manifest.cache
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade02.StaticWebAssets.xml
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.dll
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.pdb
+C:\Users\CCE\Desktop\Projetos VS Code\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.genruntimeconfig.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.exe
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.deps.json
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.runtimeconfig.json
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.runtimeconfig.dev.json
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.dll
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.pdb
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.Views.dll
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\Atividade02.Views.pdb
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csprojAssemblyReference.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.AssemblyInfoInputs.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.AssemblyInfo.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csproj.CoreCompileInputs.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorAssemblyInfo.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorAssemblyInfo.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.TagHelpers.input.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.TagHelpers.output.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorCoreGenerate.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\CarrinhoCompras.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Institucional.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\CadastroPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\EditarPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\ExcluirPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\ListarPacote.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteCadastrado.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteEditado.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Pacote\PacoteExcluido.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado2.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado3.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AcessoNegado4.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListarUsuario.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logado.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioCadastrado.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioEditado.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\UsuarioExcluido.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorTargetAssemblyInfo.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.RazorTargetAssemblyInfo.cs
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.Views.pdb
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.csproj.CopyComplete
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade02.StaticWebAssets.Manifest.cache
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade02.StaticWebAssets.xml
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.dll
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.pdb
+C:\Users\CCE\Desktop\AtividadeMVC3\Atividade02\obj\Debug\netcoreapp3.1\Atividade02.genruntimeconfig.cache

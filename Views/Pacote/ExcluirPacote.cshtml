@@ -1,0 +1,31 @@
+@model Pacote
+@{
+    ViewData["Title"] = "Exclusão de Pacote Turístico -";
+}
+
+<div>
+    <h2>Exclusão de Pacote Turístico</h2>
+    <div style="padding-top: 20px;">
+        <form asp-action="ExcluirPacote" method="POST">
+            <div class="row">
+                <div class="col-2">
+                    <label asp-for="Id">Id do Pacote:</label>
+                </div>
+                <div class="col-1">
+                    <input asp-for="Id"/>
+                </div>
+                <div class="col-9">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-2">
+                    <input type="submit" value="Excluir"/>
+                </div>
+                <div class="col-10">
+
+                </div>
+            </div>          
+        </form>
+    </div>
+</div>

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Destino Certo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body style="margin-bottom: 20px; background-color: #fff2008a;">
+    <header style="background-color: #2cff00ba;">
+        <div class="row">
+            <div class="col-10" style="align-self: center;">
+                <h1>
+                    <a href="/Home/Index" style="padding-top: 20px; color: black; padding-left: 10px;">Agência Destino Certo</a>
+                </h1>
+            </div>
+            <div class="col-2" style="align-self: center;">
+                <h5 style="text-align: center; padding-left: 70px;">
+                    <a href="/Usuario/Login" style="padding-top: 20px; color: black;">Login</a>
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-10" style="align-self: center;">
+                <div>
+                    <nav>
+                        <a href="/Home/Institucional" style="color: black; text-decoration: underline; padding-left: 10px; padding-right: 5px;">Institucional</a>
+                        <a href="/Home/Contato" style="color: black; text-decoration: underline;">Contato</a>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-2">
+                <figure style="align-self: center; text-align: center; padding-left: 70px;">
+                    <a href="/Home/CarrinhoCompras">
+                        <img src="/Imagens/carrinho.png" alt="Carrinho de Compras" style="height: 50x; width: 50px">
+                    </a>
+                </figure>
+            </div>
+        </div>
+    </header>
+
+    <div class="container" style="padding-bottom: 40px;">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted" style="background-color: #2cff00ba;">
+        <div class="container">
+            <p style="color: black;">&copy; 2020 - Destino Certo</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

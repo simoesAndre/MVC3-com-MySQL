@@ -1,0 +1,60 @@
+@model IEnumerable<Usuario>
+@{
+    ViewData["Title"] = "Listagem de Usuário -";
+}
+<h2>Listagem de Usuário</h2>
+<table>
+    <thead>
+        <div class="row" style="padding-top: 20px">
+            <div class="col-1">
+                <h6>Id</h6>
+            </div>
+            <div class="col-2">
+                <h6>Nome</h6>
+            </div>
+            <div class="col-2">
+                <h6>Data de Nascimento</h6>
+            </div>
+            <div class="col-2">
+                <h6>Login</h6>
+            </div>
+            <div class="col-2">
+                <h6>Senha</h6>
+            </div>
+            <div class="col-1">
+                <h6>Tipo</h6>
+            </div>
+            <div class="col-2">
+
+            </div>
+        </div>    
+    </thead>
+    <tbody>
+        @foreach (Usuario u in Model)
+        {
+            <div class="row">
+                <div class="col-1">
+                    <p>@u.Id</p>
+                </div>
+                <div class="col-2">
+                    <p>@u.Nome</p>
+                </div>
+                <div class="col-2">
+                    <p>@u.DataNascimento</p>
+                </div>
+                <div class="col-2">
+                    <p>@u.Login</p>
+                </div>
+                <div class="col-2">
+                    <p>@u.Senha</p>
+                </div>
+                <div class="col-2">
+                    <p>@u.Tipo</p>
+                </div> 
+                <div class="col-1">
+                
+                </div>    
+            </div>
+        }
+    </tbody>
+</table>

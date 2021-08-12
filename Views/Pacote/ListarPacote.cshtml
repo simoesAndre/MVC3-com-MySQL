@@ -1,0 +1,66 @@
+@model IEnumerable<Pacote>
+@{
+    ViewData["Title"] = "Listagem de Pacote Turístico -";
+}
+<h2>Listagem de Pacote Turístico</h2>
+<table>
+    <thead>
+        <div class="row" style="padding-top: 20px">
+            <div class="col-1">
+                <h6>Id</h6>
+            </div>
+            <div class="col-2">
+                <h6>Nome</h6>
+            </div>
+            <div class="col-2">
+                <h6>Origem</h6>
+            </div>
+            <div class="col-2">
+                <h6>Destino</h6>
+            </div>
+            <div class="col-2">
+                <h6>Atrativos</h6>
+            </div>
+            <div class="col-1">
+                <h6>Saída</h6>
+            </div>
+            <div class="col-1">
+                <h6>Retorno</h6>
+            </div>
+            <div class="col-1">
+                <h6>Id de Usuário</h6>
+            </div>
+        </div>    
+    </thead>
+    <tbody>
+        @foreach (Pacote p in Model)
+        {
+            <div class="row">
+                <div class="col-1">
+                    <p>@p.Id</p>
+                </div>
+                <div class="col-2">
+                    <p>@p.Nome</p>
+                </div>
+                <div class="col-2">
+                    <p>@p.Origem</p>
+                </div>
+                <div class="col-2">
+                    <p>@p.Destino</p>
+                </div>
+                <div class="col-2">
+                    <p>@p.Atrativos</p>
+                </div>
+                <div class="col-1">
+                    <p>@p.Saida</p>
+                </div> 
+                <div class="col-1">
+                    <p>@p.Retorno</p>
+                </div>
+                <div class="col-1">
+                    <p>@p.Usuario</p>
+                </div>    
+            </div>
+        }
+    </tbody>
+</table>
