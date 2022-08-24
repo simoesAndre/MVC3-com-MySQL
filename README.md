@@ -8,7 +8,7 @@ O projeto tem conexão com banco de dados através do MySQL. O site possui 25 p�
 2. Página institucional. Nela contêm informações sobre a empresa (quem somos, missão, visão e valores);
 3. Página de contato que contêm o endereço da empresa;
 4. Página de carrinho de compras;
-5. Página de login. Nela o usuário informa o nome e a senha para entrar no sistema.
+5. Página de login. Nela o usuário informa o nome e a senha para entrar no sistema;
 6. Página de logado. Nela são exibidas ações que o usuário pode realizar;
 7. Página de cadastro de usuário. Nela são registradas as seguintes informações: nome, data de nascimento, login, senha, 
 tipo de usuário (administrador ou comum). Somente usuário administrador pode cadastrar outros usuários;
